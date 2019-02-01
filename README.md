@@ -13,3 +13,9 @@ It's so basic, it really could be used as a child-template for any existing them
 To compile the scripts you will need Node.js and Ruby installed.
 
 Once installed simply type grunt in the root of the theme.
+
+### Update ###
+
+I modified the theme to work with CSS grid templates.
+
+I also added a sidebar as an option.
