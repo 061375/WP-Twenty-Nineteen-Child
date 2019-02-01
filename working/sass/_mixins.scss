@@ -18,6 +18,11 @@
     @content;
   }
 }
+@mixin breakmin ($width: 768px) {
+  @media only screen and (min-width: $width) {
+    @content;
+  }
+}
 /** 
  * wrapper to export common browser prefix for backward compatability
  * @param array $declarations the list of styles
